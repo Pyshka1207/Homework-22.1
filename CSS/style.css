@@ -1,0 +1,43 @@
+.link {
+    color: red;
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    display: inline-block
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+   color: blue; 
+}
+
+h3 {
+    color: chocolate;
+}
+
+h4 {
+    text-decoration: line-through;
+}
+
+h5 {
+    font-style: oblique;
+}
+
+ul {
+    color: brown;
+    font-size: 25px;
+}
+
+li {
+    font-size: 20px;
+}
+
+p {
+    font-style: italic;
+    font-size: 30px;
+}
